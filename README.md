@@ -5,5 +5,6 @@
   * Crear Git
   * Diseño
   * planificacion
+    
 *Reunion Lunes
   * Desarrollo
