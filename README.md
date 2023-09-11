@@ -6,5 +6,6 @@
   * Diseño
   * planificacion
     
-*Reunion Lunes
+* Reunion Lunes
+  * Creacion Base de datos
   * Desarrollo
